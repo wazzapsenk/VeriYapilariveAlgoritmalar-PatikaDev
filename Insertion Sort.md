@@ -22,7 +22,7 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
     - Big-O : O(n²)
     
-## 3-Time Coplexity
+## 3- Time Coplexity
 
 
 | Worst Case | Average Case | Best Case |  
@@ -33,3 +33,11 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
     - [2,6,16,18,22,27]  
 "18" ortalarda olduğu için Average Case kapsamına girer.
+
+## 5- [7,3,5,8,2,9,4,15,6] 
+
+- [7,3,5,8,2,9,4,15,6] -> Başlangıç 
+- [2,3,5,8,7,9,4,15,6] -> 1.adım
+- [2,3,4,8,7,9,5,15,6] -> 2.adım
+- [2,3,4,5,7,9,8,15,6] -> 3.adım
+- [2,3,4,5,6,9,8,15,7] -> 4.adım
