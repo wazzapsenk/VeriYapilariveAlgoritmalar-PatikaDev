@@ -27,7 +27,7 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 | Worst Case | Average Case | Best Case |  
 |-----------|:-----------:|-----------:|  
-| O(n^2) | O(n^2) | O(n) |  
+| O(n²) | O(n²) | O(n) |  
 
 ## 4- Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 
